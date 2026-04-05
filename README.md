@@ -3,6 +3,7 @@ Audio Frequency Analyzer & Guitar Tuner
 A real-time audio analysis tool built in Python that detects fundamental pitch from live microphone input and identifies musical notes. Displays a live FFT frequency spectrum and shows tuning accuracy in cents with color-coded sharp/flat feedback.
 
 Built with: Python, NumPy, SciPy, Matplotlib
+
 Install dependencies:
 pip install numpy scipy sounddevice matplotlib
 
